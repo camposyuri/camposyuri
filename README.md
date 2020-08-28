@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm developer junior front-end, with one year of experience on area of front-end and my objective it's be developer full stack. I like to learn new things and share knowledge always, I am study and seeking out improvement my knowledge an area of programming. Tools that I use, I’ve studied and I know: Linux, Bootstrap4, CSS, SASS, Git, HTML5, JavaScript, ReactJS, Angular, Node.js
 
 <!--
 **camposyuri/camposyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
