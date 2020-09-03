@@ -2,6 +2,8 @@
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <br />
+  My name is Yuri Campos
 </details>
 
 <!--
