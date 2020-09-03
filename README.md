@@ -28,6 +28,14 @@ My name is Yuri i'm developer junior front-end and does courses on area of progr
 
 ### - Languages and Tools...
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-</p>
+<ul>
+ <li>HMTL</li>
+ <li>CSS</li>
+ <li>JavaScript</li>
+ <li>Bootstrap</li>
+ <li>SASS</li>
+ <li>Git</li>
+ <li>ReactJS</li>
+ <li>Node.js</li>
+ <li>Linux</li>
+</ul>
