@@ -22,6 +22,9 @@ My name is Yuri i'm developer junior front-end and does courses on area of progr
 <br />
 
 ************
+<br />
+<br />
+<br />
 
 ### - Languages and Tools...
 
