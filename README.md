@@ -36,6 +36,7 @@ My name is Yuri i'm developer junior front-end and does courses on area of progr
  <li>SASS</li>
  <li>Git</li>
  <li>ReactJS</li>
+ <li>Angular</li>
  <li>Node.js</li>
  <li>Linux</li>
 </ul>
