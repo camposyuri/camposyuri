@@ -6,4 +6,7 @@ My name is Yuri i'm developer junior front-end and does courses on area of progr
  
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-[![Github Stats By Camposyuri](https://github-readme-stats.vercel.app/api?username=camposyuri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/camposyuri/github-readme-stats)
+**Talking about Personal Stuffs:**
+
+- 🌱 I’m currently learning Deep Reinforcement Learning Front-end | Back-end; 
+- 📫 Please email via yurinapoleao@gmail.com to reach me.
