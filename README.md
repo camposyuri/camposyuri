@@ -16,10 +16,12 @@ My name is Yuri i'm developer junior front-end and does courses on area of progr
 - Learning React with Redux.
 - Adding databases to my skill set.
 
-************
 
 <br />
 <br />
+<br />
+
+************
 
 ### - Languages and Tools...
 
