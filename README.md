@@ -14,10 +14,7 @@ My name is Yuri i'm developer junior front-end and does courses on area of progr
 - Learning React with Redux.
 - Adding databases to my skill set.
 
-<br />
-
 ************
-<br />
 
 ### - Languages and Tools...
 <p>HMTL, CSS, JavaScript, Bootstrap, SASS, Git, ReactJS, Angular, Node.js and Linux</p>
