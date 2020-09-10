@@ -17,5 +17,5 @@ My name is Yuri i'm developer junior front-end and does courses on area of progr
 ************
 
 ### - Languages and Tools...
-<p>HMTL, CSS, JavaScript, Bootstrap, SASS, Git, ReactJS, Angular, Node.js and Linux</p>
+<p>HMTL, CSS, JavaScript, Bootstrap, SASS, Git, ReactJS, Angular, Node.js, PostreSQL, MySQL and Linux</p>
 
